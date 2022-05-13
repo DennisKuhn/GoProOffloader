@@ -1,5 +1,5 @@
 # GoProOffloader
-Powershell script to automaticlly offload go pro files.
+Powershell script to automaticlly offload go pro files, when connected to the USB port.
 
 ## Minimal path to awesomeness
 To get started:
